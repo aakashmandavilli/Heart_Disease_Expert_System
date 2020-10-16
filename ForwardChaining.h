@@ -1,5 +1,7 @@
 /*
  * Author: SriAakash Mandavilli
+ * Abhinav Reddy
+ * Snigdha Rangineni
  */
 
 #include <iostream>
