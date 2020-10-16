@@ -1,6 +1,4 @@
-/*
- * Author: SriAakash Mandavilli
- */
+
 
 #include <iostream>
 #include <cstddef>

@@ -1,10 +1,7 @@
-/*
- * Author: SriAakash Mandavilli
- */
 
  
 //Includes the demonstration of backward chaining 
-#include "Project1-S_M985-BackwardChaining.h"
+#include "BackwardChaining.h"
 
 using namespace std;
 
